@@ -4,5 +4,5 @@ Uses Data from the UCI Census Data dataset to predict whether someone makes over
 
 Uses an ensemble method
 
-Made of Google colab with
+Made with Google colab 
 
